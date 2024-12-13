@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.837" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-12-13T21:02:21" tests="0" file="cypress/e2e/app.cy.ts" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="example-angular-16-app" timestamp="2024-12-13T21:02:21" tests="1" time="0.834" failures="0">
+    <testcase name="example-angular-16-app should load" time="0.823" classname="should load">
+    </testcase>
+  </testsuite>
+</testsuites>
